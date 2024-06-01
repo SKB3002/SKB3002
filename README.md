@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SKB3002
-- 👀 I’m interested in becoming a front-end developer
-- 🌱 I’m currently learning HTML5
+- 👀 I’m interested in becoming a Data Analyst/Data Scientist
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me IG- [_i_am_skb_]
 
 
