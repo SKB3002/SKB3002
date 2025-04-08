@@ -4,7 +4,7 @@
 - 📫 How to reach me
 -
 -     LinkedIn - www.linkedin.com/in/bhatkarsuyash
--     Instagram - https://www.instagram.com/suyashhhh._/
+-     Kaggle - https://www.kaggle.com/suyashbhatkar2003
 -                       
 
 
