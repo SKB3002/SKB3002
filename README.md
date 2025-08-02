@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SKB3002
-- 👀 I’m interested in becoming a Data Analyst/Data Scientist
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science, AI and its aapplications
 - 📫 How to reach me
 -
 -     LinkedIn - www.linkedin.com/in/bhatkarsuyash
