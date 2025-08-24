@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SKB3002
 - 🌱 I’m currently learning Data Science, AI and its applications
+- Love Experimenting with new AI models, building projects from Scratch and implementing AI models on real world usecases and problems.
 - 📫 How to reach me
 -
 -     LinkedIn - www.linkedin.com/in/bhatkarsuyash
