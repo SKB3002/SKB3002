@@ -3,9 +3,9 @@
 - Love Experimenting with new AI models, building projects from Scratch and implementing AI models on real world usecases and problems.
 - 📫 How to reach me
 -
--     LinkedIn - www.linkedin.com/in/bhatkarsuyash
--     Kaggle - https://www.kaggle.com/suyashbhatkar2003
--                       
+-     [LinkedIn](www.linkedin.com/in/bhatkarsuyash)
+-     [Kaggle](https://www.kaggle.com/suyashbhatkar2003)
+-     [HuggingFace](https://huggingface.co/SKB3002)
 
 
 <!---
