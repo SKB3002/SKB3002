@@ -20,6 +20,11 @@ jobs:
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Deploy to output branch
+      
+        run: |
+          git checkout -b output || git checkout output
+          git push origin output --allow-empty
+          
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.KEY_GITHUB }}
