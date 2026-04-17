@@ -95,4 +95,4 @@
 
 ## Active History
 
-![Snake animation](https://raw.githubusercontent.com/SKB3002/SKB3002/output/github-contribution-grid-snake-dark.svg))
+![Snake animation](https://raw.githubusercontent.com/SKB3002/SKB3002/output/github-contribution-grid-snake-dark.svg)
