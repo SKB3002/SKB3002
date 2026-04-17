@@ -18,34 +18,48 @@
 
 ## ⚡ Tech Stack
 
-### 👨‍💻 Languages
+<table>
+<tr>
+<td>
+
+**Languages**  
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
----
+</td>
+<td>
 
-### 🧠 AI / ML
+**AI / ML**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-000?&logo=scikit-learn)
 
----
+</td>
+</tr>
 
-### 📊 Data & Analytics
+<tr>
+<td>
+
+**Data & Analytics**  
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=numpy)
 ![Power BI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 
----
+</td>
+<td>
 
-### ☁️ DevOps & Tools
+**DevOps & Tools**  
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+
+</td>
+</tr>
+</table>
 
 ---
 
