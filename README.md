@@ -77,4 +77,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=twitter)](https://x.com/bhatkar_suyash)
-[![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)](https://www.huggingface.com/SKB3002
+[![Hugging Face](https://img.shields.io/badge/-HuggingFace-000?&logo=huggingface)](https://www.huggingface.com/SKB3002)
+
+## Active History
+
+![Snake animation](https://github.com/SKB3002/SKB3002/blob/output/github-contribution-grid-snake.svg)
