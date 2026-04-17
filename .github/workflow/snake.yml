@@ -19,12 +19,13 @@ jobs:
           github_user_name: SKB3002
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Deploy to output branch
-      
+      - name: Create output branch if needed
         run: |
-          git checkout -b output || git checkout output
-          git push origin output --allow-empty
-          
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git push origin $(git rev-parse --abbrev-ref HEAD):output --force 2>/dev/null || true
+
+      - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.KEY_GITHUB }}
