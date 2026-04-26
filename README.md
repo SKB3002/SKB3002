@@ -65,8 +65,10 @@
 
 ## 🚀 Featured Projects
 
-[![Hate Speech Classifier](https://img.shields.io/badge/-🧠%20Hate%20Speech%20Detection-000)](YOUR_LINK)
-[![Transformer Project](https://img.shields.io/badge/-⚡%20Transformer%20From%20Scratch-000)](YOUR_LINK)
+[![Agenthub-A multi platform ai agent kit with 20 Agents, 40+ Skills & 15+ Workflows](https://img.shields.io/badge/-🧠%20Agenthub:_%20A_multi_platform_AI_agent_kit_for_Claude_Code+Codex%20with_20_Agents,_40+_Skills_&_15+_Workflows-000)](https://github.com/SKB3002/agenthub)
+
+[![Transformer Project](https://img.shields.io/badge/-⚡%20Transformer%20From%20Scratch-000)](https://github.com/SKB3002/Transformer-From-Scratch-using-Tensorflow)
+
 [![RAG + Time Series](https://img.shields.io/badge/-📊%20RAG%20+%20Stock%20Prediction-000)](YOUR_LINK)
 
 ---
