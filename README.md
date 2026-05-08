@@ -76,10 +76,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=SKB3002&show_icons=true&hide_border=true&theme=radical" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKB3002&layout=compact&hide_border=true&theme=radical" />
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SKB3002&show_icons=true&theme=radical&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SKB3002&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## ⚡ Philosophy
