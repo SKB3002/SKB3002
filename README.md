@@ -84,7 +84,7 @@
 ## ⚡ Philosophy
 
 > Build. Break. Learn. Repeat.  
-> Real impact > Tutorial projects.
+> Real impact > Tutorial projects
 
 ---
 
